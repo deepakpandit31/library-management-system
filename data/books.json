@@ -1,0 +1,164 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": "12.99",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "id": "2",
+      "name": "The Land Before Time",
+      "author": "Sharon Moore",
+      "genre": "Fantasy",
+      "price": "11.99",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "id": "3",
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self Help",
+      "price": "15.99",
+      "publisher": "Avery"
+    },
+    {
+      "id": "4",
+      "name": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "genre": "Finance",
+      "price": "13.99",
+      "publisher": "Plata Publishing"
+    },
+    {
+      "id": "5",
+      "name": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "price": "14.99",
+      "publisher": "Harriman House"
+    },
+    {
+      "id": "6",
+      "name": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "price": "18.99",
+      "publisher": "Prentice Hall"
+    },
+    {
+      "id": "7",
+      "name": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "genre": "Programming",
+      "price": "16.99",
+      "publisher": "O'Reilly Media"
+    },
+    {
+      "id": "8",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "price": "17.99",
+      "publisher": "Bloomsbury"
+    },
+    {
+      "id": "9",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": "10.99",
+      "publisher": "HarperOne"
+    },
+    {
+      "id": "10",
+      "name": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "genre": "Self Help",
+      "price": "9.99",
+      "publisher": "The Ralston Society"
+    },
+    {
+      "id": "11",
+      "name": "Ikigai",
+      "author": "Hector Garcia",
+      "genre": "Self Help",
+      "price": "12.49",
+      "publisher": "Penguin Books"
+    },
+    {
+      "id": "12",
+      "name": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "genre": "Self Help",
+      "price": "13.49",
+      "publisher": "Random House"
+    },
+    {
+      "id": "13",
+      "name": "1984",
+      "author": "George Orwell",
+      "genre": "Fiction",
+      "price": "8.99",
+      "publisher": "Secker and Warburg"
+    },
+    {
+      "id": "14",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "price": "11.49",
+      "publisher": "J. B. Lippincott"
+    },
+    {
+      "id": "15",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "price": "10.49",
+      "publisher": "Scribner"
+    },
+    {
+      "id": "16",
+      "name": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "genre": "Programming",
+      "price": "29.99",
+      "publisher": "MIT Press"
+    },
+    {
+      "id": "17",
+      "name": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "genre": "Programming",
+      "price": "19.99",
+      "publisher": "No Starch Press"
+    },
+    {
+      "id": "18",
+      "name": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "price": "14.49",
+      "publisher": "Grand Central Publishing"
+    },
+    {
+      "id": "19",
+      "name": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "genre": "Self Help",
+      "price": "16.49",
+      "publisher": "Free Press"
+    },
+    {
+      "id": "20",
+      "name": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "price": "18.49",
+      "publisher": "Harper"
+    }
+  ]
+}
