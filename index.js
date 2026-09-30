@@ -1,15 +1,20 @@
+require('dotenv').config();
 const express = require("express");
 
 const app = express();
-
 const PORT = 8081;
 
 // Import routes
 const userRouter = require("./routes/users");
 const bookRouter = require("./routes/books");
 
+// Import database connection and execute it
+const Dbconnection = require('./dataBaseconnection');
+Dbconnection();
+
 // Middleware
 app.use(express.json());
+
 
 // Home route
 app.get("/", (req, res) => {
